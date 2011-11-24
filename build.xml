@@ -1,0 +1,7 @@
+<project>
+	<target name="jar">
+		<jar destfile="/Users/matt/maprednetcdf.jar" basedir="bin">
+			<fileset dir="." includes="lib/**"/>
+		</jar>
+	</target>
+</project>

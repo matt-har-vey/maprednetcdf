@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="test_src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/Users/matt/hadoop-0.20.204.0/hadoop-core-0.20.204.0.jar"/>
+	<classpathentry kind="lib" path="/Users/matt/hive-0.7.1/lib/hive-serde-0.7.1.jar"/>
+	<classpathentry kind="lib" path="/Users/matt/hive-0.7.1/lib/hive-exec-0.7.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/netcdfAll-4.2.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

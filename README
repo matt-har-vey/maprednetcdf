@@ -1,0 +1,7 @@
+Some classes that use Hadoop to scan weather data from NOAA MADIS. The record
+reader assumes a sequence file whose entries are gzipped netcdf METAR data.
+
+This also includes just enough of matrix library to support BFGS. That is, a
+pure Java implementation of the default algorithm behind fminunc is a tidbit
+here. In this context it was a fast enough way to fix a polynomial surface by
+least squares.
